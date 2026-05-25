@@ -46,5 +46,5 @@
 ## Minimal UI Inspiration
 `http://lapa.ninja`
 
-## best tool for remove background
+## Best Tool For Remove Background
 `https://github.com/yossTheDev/removerized?ref=opensourceprojects.dev`
